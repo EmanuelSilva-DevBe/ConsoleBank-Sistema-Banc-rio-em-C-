@@ -1,0 +1,15 @@
+/home/alpha7/Downloads/SoundFy-POO/ContaBancaria/obj/Debug/net10.0/ContaBancaria.GeneratedMSBuildEditorConfig.editorconfig
+/home/alpha7/Downloads/SoundFy-POO/ContaBancaria/obj/Debug/net10.0/ContaBancaria.AssemblyInfoInputs.cache
+/home/alpha7/Downloads/SoundFy-POO/ContaBancaria/obj/Debug/net10.0/ContaBancaria.AssemblyInfo.cs
+/home/alpha7/Downloads/SoundFy-POO/ContaBancaria/obj/Debug/net10.0/ContaBancaria.csproj.CoreCompileInputs.cache
+/home/alpha7/Downloads/SoundFy-POO/ContaBancaria/bin/Debug/net10.0/ContaBancaria
+/home/alpha7/Downloads/SoundFy-POO/ContaBancaria/bin/Debug/net10.0/ContaBancaria.deps.json
+/home/alpha7/Downloads/SoundFy-POO/ContaBancaria/bin/Debug/net10.0/ContaBancaria.runtimeconfig.json
+/home/alpha7/Downloads/SoundFy-POO/ContaBancaria/bin/Debug/net10.0/ContaBancaria.dll
+/home/alpha7/Downloads/SoundFy-POO/ContaBancaria/bin/Debug/net10.0/ContaBancaria.pdb
+/home/alpha7/Downloads/SoundFy-POO/ContaBancaria/obj/Debug/net10.0/ContaBancaria.dll
+/home/alpha7/Downloads/SoundFy-POO/ContaBancaria/obj/Debug/net10.0/refint/ContaBancaria.dll
+/home/alpha7/Downloads/SoundFy-POO/ContaBancaria/obj/Debug/net10.0/ContaBancaria.pdb
+/home/alpha7/Downloads/SoundFy-POO/ContaBancaria/obj/Debug/net10.0/ContaBancaria.genruntimeconfig.cache
+/home/alpha7/Downloads/SoundFy-POO/ContaBancaria/obj/Debug/net10.0/ref/ContaBancaria.dll
+/home/alpha7/Downloads/SoundFy-POO/ContaBancaria/obj/Debug/net10.0/ContaBancaria.sourcelink.json
