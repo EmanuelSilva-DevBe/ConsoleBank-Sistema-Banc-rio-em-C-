@@ -1,9 +1,0 @@
-
-bin/
-obj/
-.idea/
-*.dll
-*.pdb
-*.cache
-*.suo
-*.user
