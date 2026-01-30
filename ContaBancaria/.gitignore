@@ -1,0 +1,12 @@
+bin/
+obj/
+.idea/
+[Dd]ebug/
+[Rr]elease/
+*.sln.iml
+*.dll
+*.pdb
+*.cache
+*.suo
+*.user
+*.userosscache
