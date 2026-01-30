@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoundFy-POO", "SoundFy-POO\SoundFy-POO.csproj", "{B6141CCB-ADB9-4790-A1CE-50070A50AFCB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContaBancaria", "ContaBancaria\ContaBancaria.csproj", "{7AB0A4A4-AE4C-42FA-8528-5B96B35DA1F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6141CCB-ADB9-4790-A1CE-50070A50AFCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6141CCB-ADB9-4790-A1CE-50070A50AFCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6141CCB-ADB9-4790-A1CE-50070A50AFCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6141CCB-ADB9-4790-A1CE-50070A50AFCB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7AB0A4A4-AE4C-42FA-8528-5B96B35DA1F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AB0A4A4-AE4C-42FA-8528-5B96B35DA1F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AB0A4A4-AE4C-42FA-8528-5B96B35DA1F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AB0A4A4-AE4C-42FA-8528-5B96B35DA1F0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
